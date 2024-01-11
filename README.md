@@ -16,4 +16,6 @@ Snippet: Mar 15, 2022 ... ... 5900694412941 Заводской код: 41294 Р�
 URL: https://www.wader-zabawki.pl/kids-blocks-klocki-50-el.html
 Snippet: Kids Blocks klocki 50 el. Kod: 41294; Producent: WADER; Kod producenta: 5900694412941; Waga: 0.74 kg. Czas realizacji: 5 dni. Wyjątkowe klocki Kids Blocks ...
 
-2. Then we need to use the OpenAI API to analyze the results and extract the product name. From the top three results, we get 'Kids Blocks klocki 50 el. Wader'.
+2. Then we need to use the OpenAI API to analyze the results and extract the product name. From the top three results, we get
+
+   'Kids Blocks klocki 50 el. Wader'.
